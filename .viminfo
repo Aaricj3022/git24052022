@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1653446758,,"wq!"
+|2,0,1653447459,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,119 @@
 # Registers:
 
 # File marks:
-'0  4  8  ~/.gitconfig
-|4,48,4,8,1653446931,"~/.gitconfig"
-'1  1  5  ~/file1
-|4,49,1,5,1653446758,"~/file1"
+'0  1  6  ~/file3
+|4,48,1,6,1653447459,"~/file3"
+'1  1  6  ~/file2
+|4,49,1,6,1653447439,"~/file2"
+'2  1  10  ~/.git/COMMIT_EDITMSG
+|4,50,1,10,1653447246,"~/.git/COMMIT_EDITMSG"
+'3  4  8  ~/.gitconfig
+|4,51,4,8,1653446931,"~/.gitconfig"
+'4  1  5  ~/file1
+|4,52,1,5,1653446758,"~/file1"
 
 # Jumplist (newest first):
+-'  1  6  ~/file3
+|4,39,1,6,1653447459,"~/file3"
+-'  1  6  ~/file2
+|4,39,1,6,1653447439,"~/file2"
+-'  1  6  ~/file2
+|4,39,1,6,1653447439,"~/file2"
+-'  1  10  ~/.git/COMMIT_EDITMSG
+|4,39,1,10,1653447246,"~/.git/COMMIT_EDITMSG"
+-'  1  10  ~/.git/COMMIT_EDITMSG
+|4,39,1,10,1653447246,"~/.git/COMMIT_EDITMSG"
+-'  1  10  ~/.git/COMMIT_EDITMSG
+|4,39,1,10,1653447246,"~/.git/COMMIT_EDITMSG"
+-'  1  10  ~/.git/COMMIT_EDITMSG
+|4,39,1,10,1653447246,"~/.git/COMMIT_EDITMSG"
 -'  4  8  ~/.gitconfig
 |4,39,4,8,1653446931,"~/.gitconfig"
+-'  4  8  ~/.gitconfig
+|4,39,4,8,1653446931,"~/.gitconfig"
+-'  4  8  ~/.gitconfig
+|4,39,4,8,1653446931,"~/.gitconfig"
+-'  4  8  ~/.gitconfig
+|4,39,4,8,1653446931,"~/.gitconfig"
+-'  4  8  ~/.gitconfig
+|4,39,4,8,1653446931,"~/.gitconfig"
+-'  4  8  ~/.gitconfig
+|4,39,4,8,1653446931,"~/.gitconfig"
+-'  4  8  ~/.gitconfig
+|4,39,4,8,1653446931,"~/.gitconfig"
+-'  4  8  ~/.gitconfig
+|4,39,4,8,1653446931,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1653446885,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1653446885,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1653446885,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1653446885,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1653446885,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1653446885,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1653446885,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1653446885,"~/.gitconfig"
 -'  1  5  ~/file1
 |4,39,1,5,1653446758,"~/file1"
 -'  1  5  ~/file1
 |4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
+-'  1  5  ~/file1
+|4,39,1,5,1653446758,"~/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/file3
+	*	1653447454	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> ~/file2
+	*	1653447433	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> ~/.git/COMMIT_EDITMSG
+	*	1653447240	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/.gitconfig
 	*	1653446928	0
